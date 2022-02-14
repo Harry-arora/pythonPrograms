@@ -9,6 +9,7 @@
       <change afterPath="$PROJECT_DIR$/pythonPrograms/.idea/pythonPrograms.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pythonPrograms/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pythonPrograms/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p6.py" beforeDir="false" afterPath="$PROJECT_DIR$/p6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pythonPrograms" beforeDir="false" afterPath="$PROJECT_DIR$/pythonPrograms" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +47,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.p5">
+  <component name="RunManager" selected="Python.p6">
     <configuration name="OPERATORS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonPrograms" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -131,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="p6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonPrograms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,7 +144,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/p6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.p6" />
         <item itemvalue="Python.p5" />
         <item itemvalue="Python.p4" />
         <item itemvalue="Python.OPERATORS" />
         <item itemvalue="Python.operators" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
