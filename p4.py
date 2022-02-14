@@ -55,5 +55,5 @@ l.append(78)
 print(l)
 l.sort
 print(l)
-l.remove(2)
+l.remove(12)
 print(l)
