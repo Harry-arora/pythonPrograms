@@ -70,13 +70,6 @@ print(my_set)
 # not present in my_set
 # you will get an error.
 # Output: KeyError
-
->>> A = {1, 2, 3, 4, 5}
->>> B = {4, 5, 6, 7, 8}
-
-
-# Set union method
-# initialize A and B
 A = {1, 2, 3, 4, 5}
 B = {4, 5, 6, 7, 8}
 
