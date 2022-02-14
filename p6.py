@@ -70,7 +70,10 @@ print(my_set)
 # not present in my_set
 # you will get an error.
 # Output: KeyError
+<<<<<<< HEAD
 
+=======
+>>>>>>> 63c18abe6a3e99cb5199251558c4cf6c4b3f3197
 A = {1, 2, 3, 4, 5}
 B = {4, 5, 6, 7, 8}
 
