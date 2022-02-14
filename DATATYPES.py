@@ -27,6 +27,8 @@ d = {1:6, 2:98, 3:78.09, 9080:3} # {value:key}
 print(type(d))
 print(d)
 
+print("hello guys")
+
 
 
 
