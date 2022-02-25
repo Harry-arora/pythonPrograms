@@ -1,0 +1,12 @@
+{
+  "name": "harry",
+  "score": 20.78,
+  "admin": true,
+  "wow": null,
+  "shop": ["choco","ball","9812","wow"],
+  "nested-obj": {
+    "name": "nested",
+    "class": 12th,
+    "shop2": ["candy","frooti","cola",{"b": false}]
+  }
+}
